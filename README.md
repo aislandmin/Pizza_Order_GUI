@@ -1,5 +1,5 @@
 # Pizza_Order
 ## Pizza Order
-![](./screenshots/pizzaOrder.png)
+![](./screenshots/pizzaOrder.PNG)
 ## Pizza Order List
-![](./screenshots/orderList.png)
+![](./screenshots/orderList.PNG)
